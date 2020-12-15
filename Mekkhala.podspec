@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
     s.name = 'Mekkhala'
     s.version = '1.0.0'
 
-    s.summary = 'Mekkhala 是一个自定义 Marquee Label 框架。'
+    s.summary = 'Mekkhala 是一个自定义滚动文本标签框架'
     s.description = <<-DESC
-                    Mekkhala 是一个自定义 Marquee Label 框架，可以高效的实现滚动 Label 的效果
+                    Mekkhala 是一个自定义滚动文本标签框架，可以高效的实现滚动文本标签的效果。
                     DESC
 
     s.authors = { 'spirit-jsb' => 'sibo_jian_29903549@163.com' }
